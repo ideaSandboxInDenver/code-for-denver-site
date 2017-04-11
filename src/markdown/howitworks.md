@@ -8,4 +8,7 @@ We build apps and websites for non-profits, local government, and the community 
 
 Code for America (CfA) connects our organization to the wider civic technology movement. As a brigade of Code for America, we are able to connect with, learn, and seek inspiration from other CfA brigades. We also receive support in the form of some [cool tools](http://www.codeforamerica.org/brigade/tools/).
 
->"We design. We architect. We explore. We teach. We empathize."
+>OUR MISSION STATEMENT:
+>Volunteer-driven, community outreach that improves people’s lives through technology.
+>
+><i>"We design. We architect. We explore. We teach. We empathize."</i>
